@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Classe\ principal\ do\ mundo\ do\ jogo.\r\n\ Aqui\ s\u00E3o\ definidos\ o\ tamanho\ da\ tela,\ HUD,\ posicionamento\ de\ objetos\ e\ regras\ principais.\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Construtor\ do\ mundo\ principal.\r\n\ Inicializa\ o\ mundo,\ exibe\ HUD,\ adiciona\ o\ jogador,\ inimigos\ e\ escovas\ (itens).\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\r\n\ \r\n
+comment3.params=
+comment3.target=void\ aumentarPontos()
+comment3.text=\r\n\ \r\n\ \r\n
+comment4.params=
+comment4.target=void\ perderVida()
+comment4.text=\r\n\ M\u00E9todo\ chamado\ quando\ o\ jogador\ colide\ com\ um\ inimigo\ (perde\ vida).\r\n\ Atualiza\ o\ contador\ de\ vidas\ e\ verifica\ se\ perdeu\ o\ jogo.\r\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=6

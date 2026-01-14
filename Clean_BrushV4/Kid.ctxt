@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Kid
+comment0.text=\r\n\ Classe\ Kid\ representa\ o\ personagem\ controlado\ pelo\ jogador.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ M\u00E9todo\ principal\ chamado\ continuamente\ durante\ o\ jogo.\r\n\ Define\ o\ comportamento\ do\ personagem\ a\ cada\ frame.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Permite\ que\ o\ jogador\ mova\ o\ personagem\ usando\ as\ teclas\ WASD.\r\n
+comment3.params=
+comment3.target=void\ coletarEscova()
+comment3.text=\r\n\ \r\n\ \r\n
+numComments=4
