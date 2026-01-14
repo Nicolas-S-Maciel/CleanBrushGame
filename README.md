@@ -102,5 +102,5 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para utili
 
 ---
 
-[Volte para o incio](#logo-clean-brush-game)
+[Volte para o incio](#clean-brush-game)
 
