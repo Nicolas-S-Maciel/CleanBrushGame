@@ -1,3 +1,4 @@
+<div id="topo"></div>
 ## <img src="https://iorcpr.com.br/wp-content/uploads/2020/09/Tooth.png" alt="logo" height="50"> Clean Brush Game
 
 ### *Jogo didático em Java para conscientização de higiene bucal infantil*
@@ -102,5 +103,5 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para utili
 
 ---
 
-[Volte para o incio](#clean-brush-game)
+[⬆ Voltar para o início](#topo)
 
