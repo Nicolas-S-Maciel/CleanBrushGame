@@ -1,4 +1,4 @@
-# <img src="https://iorcpr.com.br/wp-content/uploads/2020/09/Tooth.png" alt="logo" height="50"> Clean Brush Game
+## <img src="https://iorcpr.com.br/wp-content/uploads/2020/09/Tooth.png" alt="logo" height="50"> Clean Brush Game
 
 ### *Jogo didático em Java para conscientização de higiene bucal infantil*
 
@@ -72,7 +72,7 @@ tooth-guard-project
 └── MyWorld.java          # Cenário e controle de fluxo do jogo
 ```
 
-### Tecnologias/Dependências utilizadas:
+### Tecnologias e Dependências utilizadas:
 - Java (JDK 11 ou superior);
 
 - Greenfoot Framework (v3.x);
@@ -86,7 +86,7 @@ tooth-guard-project
 
 - VS Code (Edição auxiliar de código);
 
-### Como Executar:
+### Inicialização do Projeto:
 1. Abra o software Greenfoot;
 2. Clique em Scenario -> Open...;
 3. Selecione a pasta onde você clonou o projeto;
@@ -102,5 +102,5 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para utili
 
 ---
 
-[Volte para o incio](#logo-cleanbrushgame)
+[Volte para o incio](#cleanbrushgame)
 
